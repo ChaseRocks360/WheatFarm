@@ -7,7 +7,7 @@ def turn_90_degrees():
 
     pyautogui.moveTo(screen_width / 2, screen_height / 2)
 
-    move_amount = 190
+    move_amount = 157.34
 
     pyautogui.moveRel(move_amount, 0, duration=0.1)
 
